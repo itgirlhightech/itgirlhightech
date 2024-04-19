@@ -4,11 +4,11 @@
  
  - I’m interested in new ways of using technology 
  
- - I’m currently learning about computer science 
+ - I’m currently learning about Java
  
  - I’m looking to collaborate on companies focused on the area and brands seeking development 
  
- - How to reach me: through this page and by email (evy123feitosa@gmail.com)
+
  
 
  
