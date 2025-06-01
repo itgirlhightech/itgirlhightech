@@ -4,7 +4,7 @@
  
  - I’m interested in new ways of using technology 
  
- - I’m currently learning about Java
+ - I’m currently learning 
  
  - I’m looking to collaborate on companies focused on the area and brands seeking development 
  
