@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Evilyn+Feitosa;I'm+19+years+old;I'm+a+computer+science+student;I'm+from+Brazil;welcome!;+%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Evilyn+Feitosa;I'm+19+years+old;I'm+a+computer+science+student;I'm+from+Brazil;welcome!;+%3A)](https://git.io/typing-svg)
  
 
  
@@ -8,38 +8,36 @@
  
  - I’m looking to collaborate on companies focused on the area and brands seeking development 
  
+###
+
+## 🌱 Currently Learning
+
+- Python for Data Analysis
+- SQL for Data Analytics
+- Power BI
+- Machine Learning basics
 
  
-
  
- 
+###
+## 📊 GitHub Analytics
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itgirlhightech&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itgirlhightech&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itgirlhightech&theme=tokyonight)
+
 
 
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itgirlhightech&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itgirlhightech&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="101" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-
-
-###
-
-
-
-###
+## 🌐 Connect With Me
 
 <div align="left">
   <a href="https://www.instagram.com/evlyn_feitosa/#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto:evy123feitosa@gmail.com" target="_blank">
+  <a href="mailto:evlynfeitosa@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
@@ -66,7 +64,8 @@
 
 
 ###         
-          
+     
+ 
  
   
  
