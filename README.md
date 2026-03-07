@@ -1,6 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Evilyn+Feitosa;I'm+19+years+old;I'm+a+computer+science+student;I'm+from+Brazil;welcome!;+%3A)](https://git.io/typing-svg)
- 
 
+ ###
+ 
+<div align="center">
+
+<img src="https://i.pinimg.com/originals/23/d2/5f/23d25f92483d3ece840f54c65a524b0b.gif" width="400"/>
+
+</div>
  
  - I’m interested in new ways of using technology 
  
