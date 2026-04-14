@@ -10,7 +10,9 @@
  
  - I’m interested in new ways of using technology 
  
- - I’m currently learning 
+ - I’m currently learning
+   
+ - Articles published on DIO and shared on LinkedIn
  
  - I’m looking to collaborate on companies focused on the area and brands seeking development 
  
@@ -39,6 +41,9 @@
   </a>
   <a href="mailto:evlynfeitosa@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/evilynfeitosa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
