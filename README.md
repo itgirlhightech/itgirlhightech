@@ -16,12 +16,6 @@
  
 ###
 
-## 🌱 Currently Learning
-
-- Python for Data Analysis
-- SQL for Data Analytics
-- Power BI
-- Machine Learning basics
 
  
  
